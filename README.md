@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Owais Abu Sonaina
+- 🔍 A dedicated Artificial Intelligence student with a strong passion for computer vision, machine learning, and data analysis.
+- Currently pursuing my Bachelor's degree, I aim to specialize in machine learning, focusing on advancing its technologies and applications.
+- Eager to contribute to innovative projects and push the boundaries of what’s possible in this rapidly evolving field!
